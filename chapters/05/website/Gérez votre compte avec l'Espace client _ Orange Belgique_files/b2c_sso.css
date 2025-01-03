@@ -1,0 +1,99 @@
+.form-group {
+  margin-bottom: 40px;
+}
+
+.form-group-controls #sso-submit {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.form-group-controls p {
+  margin-top: 15px;
+  text-align: center;
+  color: #333;
+}
+
+#sso .form-group-controls div p a u {
+  color: #333;
+}
+
+.alternative-or {
+  margin-top: 30px;
+  height: 30px;
+  display: flex;
+  justify-content: center;
+}
+
+.alternative-login {
+  text-align: center;
+  float: left;
+}
+
+.alternative-left {
+  float: left;
+  width: 40%;
+  border-top: 1px solid #CCCCCC;
+  height: 1px;
+  margin-top: 10px;
+  margin-right: 15px;
+}
+
+.alternative-right {
+  float: left;
+  width: 40%;
+  border-top: 1px solid #CCCCCC;
+  height: 1px;
+  margin-top: 10px;
+  margin-left: 15px;
+}
+
+.itsme-link a {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+
+}
+
+div.itsme-external-link {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+div.itsme-external-link a {
+  padding-right: 30px;
+  font-weight: normal;
+  text-decoration: underline;
+  color: #333;
+}
+
+#sso .form-group .controls {
+  margin-top: 9px;
+}
+
+#sso .sso-password-link u {
+  transition: color 300ms ease;
+}
+
+#sso .sso-password-link u:hover {
+  color: #f16e00;
+}
+
+@media(max-width: 769px) {
+  .ssa-component-instance-3813b968-d215-4758-9f87-39016e373614 {
+    display: none;
+  }
+
+  .ssa-component-instance-899fc373-1694-448a-b425-b236df56ad69 {
+    width: 100%;
+  }
+}
+
+@media(min-width:1201px) {
+  .ssa-component-instance-88a3f5a8-834b-4839-b3fc-1b02cb389c71 {
+    width: 83%;
+  }
+
+}

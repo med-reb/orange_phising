@@ -1,0 +1,17 @@
+.tippy-box {
+  background-color: #ccc;
+  color: #333;
+  border-radius: 0;
+  line-height: 18px;
+}
+.tippy-box .tippy-content {
+  padding: 10px;
+}
+.tippy-box .tippy-arrow {
+  color: #ccc;
+}
+
+/* Webform fixes */
+.webform-tooltip-element > label{
+    align-self: flex-start;
+}
